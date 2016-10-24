@@ -11,6 +11,3 @@ while True:
 
 	else:
 		print("Incorrect, try again")
-
-
-if what you are writing is smaller than a specific size then you are gauranteed 
